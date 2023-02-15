@@ -41,3 +41,33 @@ But tensors created by tf.Variable are Mutable so they can change there tensor v
 
 - [TensorFlow](https://www.tensorflow.org/)
 
+
+## 🛠 Skills
+
+        1.Python 
+        2.Machine learning 
+        3.Statistics
+        4.Mathematics
+        5.Numpy 
+        6.Neural Networks
+
+
+## Support
+
+For support, email saikamal9797@gmail.com .
+
+
+## Acknowledgements
+
+ - [Documentation](https://www.tensorflow.org/overview)
+
+
+## 🔗 Links
+
+For my work you can follow:
+
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-kamal-korlakunta-a81326163/)
+
+[Medium](https://medium.com/@korlakuntasaikamal10)
+
